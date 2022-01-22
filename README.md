@@ -18,6 +18,7 @@
 - Lot 1 and Lot 2 meet the manufacturer's design specifications of less than 100 lbs of variance, however Lot 3 has roughly 170 lbs of variance so it does not meet the design specs
 
 ## T-Tests on Suspension Coils
+- Both Lot 1 and Lot 2 have a p-value above 0.05 while Lot 3 has a p-value below 0.05. Assuming 0.05 level of significance, we cannot say that the Lot 3 mean is equal to 1500 lbs. In fact, Lot 3 may be relatively underperforming compared to the other lots. 
 
 Lot 1
 
