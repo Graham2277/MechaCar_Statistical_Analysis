@@ -10,3 +10,5 @@
 - The slope is not equal to zero since the p-value is below 0.05
 - The model shoudld be roughly 71.49% accurate with it's predictions. 
 
+## Summary Statistics on Suspension Coils
+
