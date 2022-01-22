@@ -34,5 +34,5 @@ Lot 3
 
 
 ## Study Design: MechaCar vs Competition
-
+In order to compare the MechaCar to it's competition, an ANOVA test could be performed. The ANOVA test allows us to compare the variance for more than one category such as cost, fuel efficency, horse power, and/or safety rating for example. This allows for comparisions to be done for other competitors to MechaCar to see if the means are similar and how they compare across the board. Ultimately, the p-values will dictate whether or not the results are significant. 
 
