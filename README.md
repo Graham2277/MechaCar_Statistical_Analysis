@@ -17,4 +17,14 @@
 
 - Lot 1 and Lot 2 meet the manufacturer's design specifications of less than 100 lbs of variance, however Lot 3 has roughly 170 lbs of variance so it does not meet the design specs
 
+## T-Tests on Suspension Coils
+
+Lot 1
+<img width="483" alt="Screen Shot 2022-01-22 at 11 30 03 AM" src="https://user-images.githubusercontent.com/89474406/150652931-97ff1224-c4ce-45f0-84f8-08a47b580494.png">
+
+Lot 2
+<img width="543" alt="Screen Shot 2022-01-22 at 11 30 38 AM" src="https://user-images.githubusercontent.com/89474406/150652943-4621863f-f6d3-4b58-a51b-5189a456052e.png">
+
+Lot 3
+<img width="567" alt="Screen Shot 2022-01-22 at 11 30 55 AM" src="https://user-images.githubusercontent.com/89474406/150652950-3365dc69-3067-4a05-a60d-cccec468fb23.png">
 
