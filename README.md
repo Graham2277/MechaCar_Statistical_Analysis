@@ -32,3 +32,7 @@ Lot 3
 
 <img width="567" alt="Screen Shot 2022-01-22 at 11 30 55 AM" src="https://user-images.githubusercontent.com/89474406/150652950-3365dc69-3067-4a05-a60d-cccec468fb23.png">
 
+
+## Study Design: MechaCar vs Competition
+
+
