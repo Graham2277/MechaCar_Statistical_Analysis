@@ -15,4 +15,6 @@
 <img width="332" alt="Screen Shot 2022-01-22 at 11 17 13 AM" src="https://user-images.githubusercontent.com/89474406/150652527-021b27bc-d57a-4f05-adeb-c0b84cee896b.png">
 <img width="488" alt="Screen Shot 2022-01-22 at 11 17 34 AM" src="https://user-images.githubusercontent.com/89474406/150652536-e2c1fb3a-81fd-4f98-86d2-726a75bcdd36.png">
 
-- 
+- Lot 1 and Lot 2 meet the manufacturer's design specifications of less than 100 lbs of variance, however Lot 3 has roughly 170 lbs of variance so it does not meet the design specs
+
+
